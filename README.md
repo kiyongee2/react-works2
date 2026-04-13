@@ -8,3 +8,6 @@
 - tsc hello.ts (typescript compiler) -> hello.js
 - node hello.js
 
+### TypeScript 기반의 React Project
+- npm create vite@latest my-app
+
